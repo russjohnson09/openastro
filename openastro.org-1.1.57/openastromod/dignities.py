@@ -27,7 +27,7 @@ swissLocalDir=os.path.join(oa, 'swiss_ephemeris')
 #swiss ephemeris path
 ephe_path=swissDir+':'+swissLocalDir
 
-import swisseph as swe
+#import swisseph as swe
 
 __all__ = [ "getdignities" ]
 
